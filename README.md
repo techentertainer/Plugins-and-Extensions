@@ -67,7 +67,13 @@ But its main power lies in the [plugins](https://github.com/robbyrussell/oh-my-z
 
 [Insomnia](https://insomnia.rest) - Debug APIs now like a human should, by viewing entire transaction record, code snippets generation for requests in multiple languages, even write GraphQL queries. (Must have)
 
+<div align="center">
+  <img src="https://insomnia.rest/static/main-ac0a1732afac19acce5ad6825595c3bb-5c808.png">
+</div>
+
 # General Extensions
+
+Most of the tools in this category, in dev terms pertain to auto-formatting, auto-editing and all other auto-* things, because we developers hate to format our code but we need it `pretty looking` when we go back to it.
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
 > lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
@@ -75,6 +81,10 @@ In case the awesome nirvana that is linting has not yet been unleashed upon you:
 ### Prettier
 
 [Prettier](https://prettier.io) - Linter, Formatter and Pretty printer for JS, CSS, Graphql. Upcoming: Java, Python etc. (Must have)
+
+<div align="center">
+   <img src="https://github.com/prettier/prettier-atom/raw/master/prettier-demo.gif">
+</div>
 
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Atom](https://github.com/prettier/prettier-atom)
@@ -127,6 +137,10 @@ This plugin has built-in support for [Flow](#flow), connecting to Remote Server,
 ### TODO Highlight
 
 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODO,FIXME or any annotations within your code. Add a comment with such annotations, so that you don't forget what to fix or what feature to add. (Must have)
+
+<div align="center">
+  <img src="https://github.com/wayou/vscode-todo-highlight/raw/master/assets/material-night-eighties.png">
+</div>
 
 ### Git Lens
 
