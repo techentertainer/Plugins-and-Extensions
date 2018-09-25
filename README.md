@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
 
-A curated list of delightful packages/tools/extensions/resources/plugins to increase work effort and ease. Watch this repo to get updates on the new ones in the community.
+A curated list of delightful and happening packages/tools/extensions/resources/plugins to increase work effort and ease. Watch this repo to get updates on the new ones in the community.
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 </div>
